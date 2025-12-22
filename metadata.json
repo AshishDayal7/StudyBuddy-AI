@@ -1,0 +1,5 @@
+{
+  "name": "StudyBuddy AI",
+  "description": "A powerful RAG-based study companion that lets you upload documents and ask questions using Gemini's long-context capabilities.",
+  "requestFramePermissions": []
+}
