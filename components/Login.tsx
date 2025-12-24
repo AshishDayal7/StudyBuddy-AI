@@ -181,7 +181,7 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
                   />
                 </div>
                 <p className="text-[11px] text-slate-500 text-center max-w-[280px]">
-                  Sign in securely with your Google account to sync your study history across devices.
+                  Sign in securely with your Google account to sync your study history.
                 </p>
               </div>
             )}
